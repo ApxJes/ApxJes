@@ -7,8 +7,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating bugs since 2023<br>
-📚 I'm currently learning advanced Android development with Clean Architecture, Jetpack Libraries, and APIs like OpenTripMap<br>
+✨ Creating bugs since 2024<br>
 🎯 Goals: To become a professional Android Developer and publish impactful apps on the Play Store<br>
 🎲 Fun fact: I love fixing bugs more than creating features (yes, really!) 🐛🔧
 </p>
