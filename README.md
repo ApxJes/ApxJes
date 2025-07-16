@@ -27,3 +27,11 @@
   <img src="https://img.shields.io/badge/Hilt-6DB33F?style=for-the-badge&logo=dagger&logoColor=white" alt="Hilt"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
+
+<h2 align="left">📱 Connect with me</h2>
+
+<p align="left">
+  <a href="https://www.youtube.com/@Ap20yrso" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
